@@ -1,0 +1,1 @@
+This Network Security Project has two parts; Part 1 is about using SSL and creating a single client password manager, Part 2 is about modifying an existing program to provide authentication and access control.
